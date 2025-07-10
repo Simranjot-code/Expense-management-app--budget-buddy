@@ -132,6 +132,8 @@ create config folder and add config.env file in it and all all env variables the
 
 ![app screenshot](<registration page.png>)
 
-![app screenshot](<Screenshot 2025-07-10 163644.png>)
+![app screenshot](<crud functionality page .png>)
 
-![app screenshot](image.png)
+![app screenshot](<Add, edit functionality.png>)
+
+![app screenshot](<chart visualization.png>)
