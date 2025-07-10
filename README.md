@@ -128,13 +128,10 @@ create config folder and add config.env file in it and all all env variables the
 
 
 ## Screenshots
+![app screenshot](<login page (1).png>)
 
-![App Screenshot](https://i.postimg.cc/6qLR3WNt/Expense-Management-System-Brave-19-04-2023-11-08-53.png)
+![app screenshot](<registration page.png>)
 
-![App Screenshot](https://i.postimg.cc/DynLNXqZ/Expense-Management-System-Brave-19-04-2023-11-08-59.png)
+![app screenshot](<Screenshot 2025-07-10 163644.png>)
 
-![App Screenshot](https://i.postimg.cc/Dy6L3wgc/Expense-Management-System-Brave-19-04-2023-11-15-46.png)
-
-![App Screenshot](https://i.postimg.cc/13YF47bn/Expense-Management-System-Brave-19-04-2023-11-15-54.png)
-
-![App Screenshot](https://i.postimg.cc/rwpWV2Z2/Expense-Management-System-Brave-19-04-2023-11-16-01.png)
+![app screenshot](image.png)
